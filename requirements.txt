@@ -1,0 +1,12 @@
+# Anlatım Stüdyosu — Python 3.10+ (macOS / Linux / Windows-WSL)
+python-pptx>=1.0
+reportlab>=4.0
+Pillow>=10.1
+PyYAML>=6.0
+pypdf>=4.0            # PDF notlarını okumak (intake)
+python-docx>=1.1      # Word notlarını okumak (intake)
+# Pro (video) için ek:
+numpy>=1.26
+# İsteğe bağlı:
+# faster-whisper>=1.0   # seslendirme geri kontrolü (whisper.cpp yoksa)
+# pymupdf               # önizleme: pdftoppm (poppler) yoksa PDF → PNG

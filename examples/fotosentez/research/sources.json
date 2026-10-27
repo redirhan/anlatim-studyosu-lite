@@ -1,0 +1,97 @@
+{
+ "sources": [
+  {
+   "id": "S1", "type": "web", "opened": true, "accessed": "2026-10-27",
+   "author": "Clark, M. A., Douglas, M. ve Choi, J.", "year": "2018",
+   "title": "8.1 Overview of Photosynthesis. Biology 2e", "publisher": "OpenStax",
+   "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+   "short": "Clark vd. (2018), Biology 2e, 8.1", "licence": "CC BY-NC-SA 4.0 (yalnız atıf; metin kopyalanmadı)",
+   "excerpts": [
+    "Plants, algae, and a group of bacteria called cyanobacteria are the only organisms capable of performing photosynthesis.",
+    "photosynthesis is vital because it evolved as a way to store the energy from solar radiation",
+    "six carbon dioxide and six water molecules produce one sugar molecule and six oxygen molecules.",
+    "In plants, photosynthesis generally takes place in leaves, which consist of several layers of cells.",
+    "The process of photosynthesis occurs in a middle layer called the mesophyll.",
+    "The gas exchange of carbon dioxide and oxygen occurs through small, regulated openings called stomata",
+    "Chloroplasts have a double membrane envelope",
+    "Within the chloroplast are stacked, disc-shaped structures called thylakoids.",
+    "a stack of thylakoids is called a granum",
+    "the liquid-filled space surrounding the granum is called stroma or 'bed'",
+    "Photosynthesis takes place in two sequential stages: the light-dependent reactions and the light-independent reactions.",
+    "energy from sunlight is absorbed by chlorophyll and that energy is converted into stored chemical energy.",
+    "the chemical energy harvested during the light-dependent reactions",
+    "the assembly of sugar molecules from carbon dioxide."
+   ]
+  },
+  {
+   "id": "S2", "type": "web", "opened": true, "accessed": "2026-10-27",
+   "author": "Clark, M. A., Douglas, M. ve Choi, J.", "year": "2018",
+   "title": "8.2 The Light-Dependent Reactions of Photosynthesis. Biology 2e", "publisher": "OpenStax",
+   "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+   "short": "Clark vd. (2018), Biology 2e, 8.2",
+   "excerpts": [
+    "Protein complexes and pigment molecules work together to produce NADPH and ATP.",
+    "two types of which are found embedded in the thylakoid membrane.",
+    "P680's missing electron is replaced by extracting a low-energy electron from water;",
+    "Splitting one H2O molecule releases two electrons, two hydrogen atoms, and one atom of oxygen.",
+    "The remainder escapes to the atmosphere where it is used by aerobic organisms to support respiration.",
+    "PSII and PSI are two major components of the photosynthetic electron transport chain,",
+    "PSII captures the energy to create proton gradients to make ATP, and PSI captures the energy to reduce NADP+ into NADPH.",
+    "Chlorophyll a absorbs wavelengths from either end of the visible spectrum (blue and red), but not green.",
+    "Because green is reflected or transmitted, chlorophyll appears green."
+   ]
+  },
+  {
+   "id": "S3", "type": "web", "opened": true, "accessed": "2026-10-27",
+   "author": "Clark, M. A., Douglas, M. ve Choi, J.", "year": "2018",
+   "title": "8.3 Using Light Energy to Make Organic Molecules. Biology 2e", "publisher": "OpenStax",
+   "url": "https://openstax.org/books/biology-2e/pages/8-3-using-light-energy-to-make-organic-molecules",
+   "short": "Clark vd. (2018), Biology 2e, 8.3",
+   "excerpts": [
+    "These energy-carrying molecules are made in the stroma where carbon fixation takes place.",
+    "The light-independent reactions of the Calvin cycle can be organized into three basic stages.",
+    "an enzyme called ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO).",
+    "RuBP has five atoms of carbon, flanked by two phosphates.",
+    "Six molecules of both ATP and NADPH are used.",
+    "must be completed three times to produce a single three-carbon G3P molecule, and six times to produce a six-carbon glucose molecule.",
+    "Some plants such as cacti can prepare materials for photosynthesis during the night.",
+    "Photosynthesis consumes carbon dioxide and produces oxygen.",
+    "Aerobic respiration consumes oxygen and produces carbon dioxide."
+   ],
+   "notes": "Üç evre: fixation, reduction, regeneration (sayfadaki başlıklar)."
+  },
+  {
+   "id": "S4", "type": "web", "opened": true, "accessed": "2026-10-27",
+   "author": "Vikipedi katkıcıları", "year": "t.y.",
+   "title": "Fotosentez", "publisher": "Vikipedi, Özgür Ansiklopedi",
+   "url": "https://tr.wikipedia.org/wiki/Fotosentez",
+   "short": "Vikipedi, \"Fotosentez\"",
+   "excerpts": [
+    "kimyasal enerjiye dönüştürmek için kullanılan bir işlemdir",
+    "ışığa bağımsız tepkimeler için gereken ATP ve NADPH'yi ürettiği bir dizi tepkime zinciridir",
+    "Bu tepkimeler stroma bölgesinde gerçekleşir",
+    "Sudan elektron alınmasının sonucu olarak su oksijen ve hidrojene parçalanmış olur.",
+    "Bitkiler besin zincirinin ilk halkasını oluşturduğundan",
+    "Calvin ve meslektaşları Kaliforniya Üniversitesi, Berkeley'de çalışmışlardır"
+   ]
+  },
+  {
+   "id": "S5", "type": "web", "opened": true, "accessed": "2026-10-27",
+   "author": "Wikipedia contributors", "year": "t.y.",
+   "title": "Photosynthesis", "publisher": "Wikipedia, The Free Encyclopedia",
+   "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+   "short": "Wikipedia, \"Photosynthesis\"",
+   "excerpts": [
+    "Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere",
+    "Oxygenic photosynthesis is the main source of oxygen in the Earth's atmosphere",
+    "There are four main factors influencing photosynthesis and several corollary factors.",
+    "the rate of carbon assimilation varies with irradiance, increasing as the irradiance increases, but reaching a plateau at higher irradiance",
+    "At low irradiance, increasing the temperature has little influence on the rate of carbon assimilation.",
+    "At constant high irradiance, the rate of carbon assimilation increases as the temperature is increased.",
+    "Second, Blackman's experiments illustrate the concept of limiting factors.",
+    "the rate at which sugars are made by the light-independent reactions increases until limited by other factors.",
+    "However, if the carbon dioxide concentration is low, RuBisCO will bind oxygen instead of carbon dioxide."
+   ]
+  }
+ ]
+}

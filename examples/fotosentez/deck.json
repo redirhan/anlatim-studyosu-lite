@@ -1,0 +1,397 @@
+{
+ "title": "Fotosentez nasıl çalışır?",
+ "subtitle": "Işık enerjisinden glikoza: iki aşamalı bir süreç",
+ "kicker": "Biyoloji · lise / üniversite giriş",
+ "keywords": [
+  "fotosentez",
+  "klorofil",
+  "kloroplast",
+  "tilakoit",
+  "stroma",
+  "stoma",
+  "ATP",
+  "NADPH",
+  "Calvin döngüsü",
+  "RuBisCO",
+  "sınırlayıcı etmen"
+ ],
+ "slides": [
+  {
+   "type": "title",
+   "notes": "Bugün bitkilerin, alglerin ve siyanobakterilerin güneş ışığını nasıl besine çevirdiğini konuşacağız. Önce tanım ve genel denklemle başlayacağız, sonra fotosentezin nerede olduğuna ve iki aşamasına bakacağız. Sonunda fotosentezi etkileyen etmenleri ve solunumla ilişkisini göreceğiz."
+  },
+  {
+   "type": "agenda",
+   "title": "Bu derste",
+   "bullets": [
+    "Fotosentez nedir, hangi canlılar yapar?",
+    "Nerede gerçekleşir: yaprak ve kloroplast",
+    "Birinci aşama: ışığa bağlı tepkimeler",
+    "İkinci aşama: Calvin döngüsü",
+    "Fotosentez hızını etkileyen etmenler",
+    "Fotosentez ve solunum: neden önemli?"
+   ],
+   "notes": "Dersin akışı bu altı başlık. Her başlığın sonunda kısa bir soru soracağım; son slaytta da kendinizi deneyebileceğiniz sorular var."
+  },
+  {
+   "type": "term",
+   "title": "Fotosentez nedir?",
+   "term": "Fotosentez",
+   "definition": "Güneş ışığından gelen enerjiyi yakalayıp karbonhidrat gibi kimyasal bileşiklerde depolayan biyolojik süreçtir.",
+   "example": "Bitkiler, algler ve siyanobakteri adı verilen bir bakteri grubu fotosentez yapabilen canlılardır.",
+   "sources": [
+    "S1",
+    "S4"
+   ],
+   "summary": "Fotosentez, ışık enerjisini karbonhidratlarda kimyasal enerji olarak depolar; bitkiler, algler ve siyanobakteriler yapar.",
+   "notes": "Fotosentez, ışık enerjisini kimyasal enerjiye dönüştüren süreçtir. OpenStax bunu güneşten gelen enerjiyi yakalayıp karbonhidratlara çevirebilen tek biyolojik süreç olarak anlatır. Bu yeteneğe sahip canlılar bitkiler, algler ve siyanobakteriler. Sınıfa sorun: Mantarlar fotosentez yapar mı? Cevap hayır; besinlerini dışarıdan alırlar."
+  },
+  {
+   "type": "key_fact",
+   "title": "Genel denklem",
+   "statement": "6 CO₂ + 6 H₂O + ışık enerjisi → C₆H₁₂O₆ + 6 O₂",
+   "detail": "Altı karbondioksit ve altı su molekülünden bir glikoz molekülü ve altı oksijen molekülü oluşur.",
+   "sources": [
+    "S1"
+   ],
+   "summary": "Altı karbondioksit ve altı su molekülünden bir glikoz ve altı oksijen molekülü oluşur.",
+   "notes": "Denklemin sol tarafında girdiler var: karbondioksit, su ve ışık enerjisi. Sağ tarafta ürünler: bir glikoz ve altı oksijen. Denklemi sayılarla ezberletmek yerine atomları saydırın: altı karbon, on iki hidrojen, on sekiz oksijen her iki tarafta da aynı. Bu denklem bütün süreci özetler; arada birçok ara basamak vardır."
+  },
+  {
+   "type": "bullets",
+   "title": "Nerede gerçekleşir?",
+   "bullets": [
+    {
+     "label": "Yaprak",
+     "text": "Bitkilerde fotosentez çoğunlukla yapraklarda, mezofil denen orta katmanda gerçekleşir."
+    },
+    {
+     "label": "Stoma",
+     "text": "Karbondioksit ve oksijen alışverişi, stoma denen küçük ve denetlenen açıklıklardan olur."
+    },
+    {
+     "label": "Kloroplast",
+     "text": "Çift zarlı bu organelin içinde tilakoit denen disk biçimli yapılar üst üste dizilir."
+    },
+    {
+     "label": "Granum ve stroma",
+     "text": "Tilakoit yığınına granum, granumu çevreleyen sıvı dolu boşluğa stroma denir."
+    }
+   ],
+   "sources": [
+    "S1"
+   ],
+   "summary": "Fotosentez yaprağın mezofil katmanındaki kloroplastlarda olur; gaz alışverişi stomalardan, tepkimeler tilakoit ve stromada yürür.",
+   "notes": "Yaprağı katman katman düşünün. Fotosentez, orta katman olan mezofilde yoğunlaşır. Karbondioksit yaprağa stomalardan girer, oksijen yine stomalardan çıkar. Hücrenin içinde iş kloroplastta yapılır: tilakoitler para destesi gibi üst üste dizilir, bu yığına granum denir. Granumların çevresindeki sıvıya stroma denir. Bu iki bölge birazdan göreceğimiz iki aşamanın adresi."
+  },
+  {
+   "type": "process",
+   "title": "İki aşamada fotosentez",
+   "steps": [
+    {
+     "label": "Işığın yakalanması",
+     "text": "Klorofil güneş ışığını soğurur."
+    },
+    {
+     "label": "Işığa bağlı tepkimeler",
+     "text": "Tilakoit zarında enerji ATP ve NADPH'ye aktarılır; su parçalanır."
+    },
+    {
+     "label": "Calvin döngüsü",
+     "text": "Stromada ATP ve NADPH kullanılarak karbondioksitten karbonhidrat yapılır."
+    }
+   ],
+   "note": "Birinci aşamanın ürünleri (ATP ve NADPH), ikinci aşamada karbonhidrat yapımı için harcanır.",
+   "sources": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "summary": "Fotosentez iki aşamadır: ışığa bağlı tepkimeler ATP ve NADPH üretir, Calvin döngüsü bunları kullanarak karbonhidrat yapar.",
+   "notes": "Fotosentez art arda gelen iki aşamadan oluşur. Birinci aşamada klorofil ışığı soğurur ve bu enerji ATP ile NADPH'de depolanır. İkinci aşama, yani ışıktan bağımsız tepkimeler ya da Calvin döngüsü, stromada olur ve bu enerji taşıyıcılarını kullanarak karbondioksitten karbonhidrat yapar. 'Işıktan bağımsız' adı yanıltmasın: ikinci aşama birinci aşamanın ürünlerine muhtaçtır."
+  },
+  {
+   "type": "bullets",
+   "title": "Işığa bağlı tepkimeler",
+   "bullets": [
+    {
+     "label": "Yer",
+     "text": "Tilakoit zarına gömülü iki tür fotosistemde gerçekleşir: fotosistem II ve fotosistem I."
+    },
+    {
+     "label": "Suyun parçalanması",
+     "text": "Bir su molekülünün parçalanmasıyla iki elektron, iki hidrojen atomu ve bir oksijen atomu açığa çıkar."
+    },
+    {
+     "label": "Enerji taşıyıcıları",
+     "text": "Fotosistem II ATP yapımı için proton farkı oluşturur; fotosistem I, NADP⁺'yı NADPH'ye indirger."
+    },
+    {
+     "label": "Oksijen",
+     "text": "Oluşan oksijenin çoğu atmosfere geçer ve oksijenli solunum yapan canlılarca kullanılır."
+    }
+   ],
+   "sources": [
+    "S2",
+    "S4"
+   ],
+   "summary": "Tilakoit zarındaki fotosistemler suyu parçalar, ATP ve NADPH üretir; oksijen yan ürün olarak atmosfere geçer.",
+   "notes": "Bu aşamanın adresi tilakoit zarı. Burada iki fotosistem çalışır. Fotosistem II'nin kaybettiği elektron sudan karşılanır; su parçalanınca oksijen açığa çıkar. Yani soluduğumuz oksijen karbondioksitten değil sudan gelir; bu sık yapılan bir yanılgıdır. Fotosistem II'nin yakaladığı enerji ATP yapımına, fotosistem I'inki NADPH yapımına gider."
+  },
+  {
+   "type": "key_fact",
+   "title": "Yapraklar neden yeşil?",
+   "statement": "Klorofil a mavi ve kırmızı ışığı soğurur, yeşil ışığı soğurmaz.",
+   "detail": "Yeşil ışık yansıtıldığı ya da yapraktan geçtiği için klorofil, dolayısıyla yaprak, gözümüze yeşil görünür.",
+   "sources": [
+    "S2"
+   ],
+   "summary": "Klorofil a görünür ışığın mavi ve kırmızı uçlarını soğurur; yeşil yansıdığı için yapraklar yeşil görünür.",
+   "notes": "Görünür ışık bir renk yelpazesidir. Klorofil a bu yelpazenin iki ucundaki mavi ve kırmızı ışığı soğurur. Yeşil ışık ise yansır ya da yapraktan geçer; gözümüze ulaşan renk bu yüzden yeşildir. Sınıfa sorun: Yeşil ışık altında yetişen bir bitki neden zorlanır?"
+  },
+  {
+   "type": "process",
+   "title": "Calvin döngüsü: üç evre",
+   "steps": [
+    {
+     "label": "Fiksasyon",
+     "text": "RuBisCO enzimi karbondioksiti beş karbonlu RuBP molekülüne bağlar."
+    },
+    {
+     "label": "İndirgenme",
+     "text": "Altışar ATP ve NADPH harcanır; üç karbonlu G3P oluşur."
+    },
+    {
+     "label": "Yenilenme",
+     "text": "RuBP yeniden oluşur ve döngü devam eder."
+    }
+   ],
+   "note": "Bir G3P için döngü 3 kez, bir glikoz için 6 kez tamamlanmalıdır.",
+   "sources": [
+    "S3"
+   ],
+   "summary": "Calvin döngüsü stromada fiksasyon, indirgenme ve yenilenme evreleriyle karbondioksitten G3P ve sonunda glikoz yapar.",
+   "notes": "Calvin döngüsü stromada yürür ve üç evresi vardır. Fiksasyonda RuBisCO enzimi karbondioksiti beş karbonlu RuBP'ye bağlar. İndirgenmede ışığa bağlı tepkimelerden gelen ATP ve NADPH harcanır ve G3P oluşur. Yenilenmede RuBP yeniden kurulur, böylece döngü sürer. Tek bir glikoz için döngünün altı kez dönmesi gerekir."
+  },
+  {
+   "type": "compare",
+   "title": "Fotosentez hızını etkileyen etmenler",
+   "corner": "Etmen",
+   "columns": [
+    "Ne olur?"
+   ],
+   "rows": [
+    {
+     "label": "Işık şiddeti",
+     "cells": [
+      "Işık arttıkça karbon özümleme hızı artar, yüksek ışıkta bir düzlüğe ulaşır."
+     ]
+    },
+    {
+     "label": "Sıcaklık",
+     "cells": [
+      "Düşük ışıkta etkisi azdır; yüksek ışıkta sıcaklık arttıkça hız artar."
+     ]
+    },
+    {
+     "label": "Karbondioksit",
+     "cells": [
+      "Karbonhidrat yapım hızı başka bir etmen sınırlayana kadar artar; CO₂ azsa RuBisCO oksijen bağlar."
+     ]
+    },
+    {
+     "label": "Sınırlayıcı etmen",
+     "cells": [
+      "Blackman'ın deneyleri: en az bulunan etmen hızı belirler."
+     ]
+    }
+   ],
+   "sources": [
+    "S5"
+   ],
+   "summary": "Işık şiddeti, sıcaklık ve karbondioksit fotosentez hızını etkiler; en az bulunan etmen hızı sınırlar.",
+   "notes": "Fotosentez hızı tek bir etmene bağlı değildir. Işık arttıkça hız artar ama bir noktadan sonra düzleşir. Sıcaklığın etkisi ışığa bağlıdır: düşük ışıkta sıcaklığı artırmak pek işe yaramaz, yüksek ışıkta hızı artırır. Karbondioksit de hızı artırır, ta ki başka bir etmen sınırlayana kadar. Blackman'ın deneyleri bu 'sınırlayıcı etmen' fikrini gösterir."
+  },
+  {
+   "type": "two_col",
+   "title": "Fotosentez ve oksijenli solunum",
+   "columns": [
+    {
+     "heading": "Fotosentez",
+     "bullets": [
+      "Karbondioksit tüketir, oksijen üretir.",
+      "Işık enerjisini karbonhidratlarda depolar.",
+      "Bitkiler, algler ve siyanobakteriler yapar."
+     ]
+    },
+    {
+     "heading": "Oksijenli solunum",
+     "bullets": [
+      "Oksijen tüketir, karbondioksit üretir.",
+      "Karbonhidratlardaki enerjiyi hücrenin kullanımına açar.",
+      "Fotosentezin oksijenini kullanır."
+     ]
+    }
+   ],
+   "sources": [
+    "S2",
+    "S3"
+   ],
+   "summary": "Fotosentez karbondioksit tüketip oksijen üretir; oksijenli solunum oksijen tüketip karbondioksit üretir.",
+   "notes": "Bu iki süreç birbirinin aynası gibidir. Fotosentez karbondioksit tüketip oksijen üretir; oksijenli solunum oksijeni tüketip karbondioksit üretir. Fotosentezde açığa çıkan oksijen, solunum yapan canlılar tarafından kullanılır. Bitkiler de solunum yapar; bunu ayrıca vurgulayın."
+  },
+  {
+   "type": "bullets",
+   "title": "Fotosentez neden önemli?",
+   "bullets": [
+    {
+     "label": "Oksijen",
+     "text": "Oksijen üreten fotosentez, Dünya atmosferindeki oksijenin ana kaynağıdır."
+    },
+    {
+     "label": "Besin zinciri",
+     "text": "Bitkiler besin zincirinin ilk halkasını oluşturur."
+    },
+    {
+     "label": "Enerji",
+     "text": "Fotosentez, güneşten gelen enerjiyi depolamanın bir yolu olarak evrimleşmiştir."
+    }
+   ],
+   "sources": [
+    "S1",
+    "S4",
+    "S5"
+   ],
+   "summary": "Fotosentez atmosfer oksijeninin ana kaynağıdır, besin zincirinin temelini kurar ve güneş enerjisini depolar.",
+   "notes": "Toparlarken fotosentezin üç büyük katkısını vurgulayın. Atmosferdeki oksijenin ana kaynağıdır. Besin zincirinin ilk halkası olan bitkiler sayesinde diğer canlılar enerjiye ulaşır. Son olarak fotosentez, güneş enerjisini canlıların kullanabileceği kimyasal enerji olarak depolar."
+  },
+  {
+   "type": "questions",
+   "title": "Kendini dene",
+   "bullets": [
+    "Fotosentezde açığa çıkan oksijen hangi molekülden gelir?",
+    "Işığa bağlı tepkimelerin iki enerji taşıyıcı ürünü nedir ve nerede kullanılır?",
+    "Calvin döngüsünün üç evresini sırasıyla yazın.",
+    "Işık çok güçlüyken sıcaklığı artırmak fotosentez hızını nasıl etkiler?"
+   ],
+   "notes": "Cevaplar: 1) Su. 2) ATP ve NADPH; Calvin döngüsünde, stromada. 3) Fiksasyon, indirgenme, yenilenme. 4) Yüksek ışıkta sıcaklık arttıkça karbon özümleme hızı artar."
+  },
+  {
+   "type": "sources",
+   "title": "Kaynakça",
+   "notes": "Tüm kaynaklar 27 Ekim 2026'da açılıp okundu. OpenStax Biology 2e ücretsiz bir üniversite ders kitabıdır; öğrenciler için iyi bir ek okuma."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Aşağıdakilerden hangisi fotosentez yapabilen canlılardan biri değildir?",
+   "options": [
+    "Bitkiler",
+    "Algler",
+    "Siyanobakteriler",
+    "Mantarlar"
+   ],
+   "answer": 3,
+   "why": "Kaynağa göre fotosentez yapabilen canlılar bitkiler, algler ve siyanobakterilerdir."
+  },
+  {
+   "q": "Bitkilerde fotosentez yaprağın hangi katmanında gerçekleşir?",
+   "options": [
+    "Mezofil",
+    "Epidermis",
+    "Kök ucu",
+    "Kabuk"
+   ],
+   "answer": 0,
+   "why": "Fotosentez, yaprağın orta katmanı olan mezofilde gerçekleşir."
+  },
+  {
+   "q": "Karbondioksit ve oksijen alışverişi yaprakta hangi yapılardan olur?",
+   "options": [
+    "Tilakoitler",
+    "Stomalar",
+    "Granumlar",
+    "Ribozomlar"
+   ],
+   "answer": 1,
+   "why": "Gaz alışverişi stoma denen küçük, denetlenen açıklıklardan olur."
+  },
+  {
+   "q": "Üst üste dizilmiş tilakoitlerden oluşan yığına ne ad verilir?",
+   "options": [
+    "Stroma",
+    "Stoma",
+    "Granum",
+    "Mezofil"
+   ],
+   "answer": 2,
+   "why": "Tilakoit yığınına granum denir."
+  },
+  {
+   "q": "Işığa bağlı tepkimeler kloroplastın hangi bölümünde gerçekleşir?",
+   "options": [
+    "Stroma",
+    "Dış zar",
+    "Tilakoit zarı",
+    "Çekirdek"
+   ],
+   "answer": 2,
+   "why": "Fotosistemler tilakoit zarına gömülüdür."
+  },
+  {
+   "q": "Fotosentezde açığa çıkan oksijen hangi molekülün parçalanmasından gelir?",
+   "options": [
+    "Su",
+    "Karbondioksit",
+    "Glikoz",
+    "ATP"
+   ],
+   "answer": 0,
+   "why": "Su molekülü parçalanınca oksijen atomu açığa çıkar."
+  },
+  {
+   "q": "Işığa bağlı tepkimelerde üretilip Calvin döngüsünde kullanılan iki molekül hangisidir?",
+   "options": [
+    "Glikoz ve oksijen",
+    "ATP ve NADPH",
+    "RuBP ve G3P",
+    "Su ve karbondioksit"
+   ],
+   "answer": 1,
+   "why": "Işığa bağlı tepkimeler ATP ve NADPH üretir; Calvin döngüsü bunları harcar."
+  },
+  {
+   "q": "Calvin döngüsünde karbondioksiti RuBP'ye bağlayan enzim hangisidir?",
+   "options": [
+    "Amilaz",
+    "Katalaz",
+    "Lipaz",
+    "RuBisCO"
+   ],
+   "answer": 3,
+   "why": "Fiksasyon evresinde RuBisCO karbondioksiti RuBP'ye bağlar."
+  },
+  {
+   "q": "Klorofil a görünür ışığın hangi renklerini soğurur?",
+   "options": [
+    "Yeşil ve sarı",
+    "Mavi ve kırmızı",
+    "Yalnız yeşil",
+    "Turuncu ve yeşil"
+   ],
+   "answer": 1,
+   "why": "Klorofil a mavi ve kırmızı ışığı soğurur, yeşili yansıtır."
+  },
+  {
+   "q": "Işık şiddeti düşükken sıcaklığı artırmanın fotosentez hızına etkisi nedir?",
+   "options": [
+    "Hız çok artar",
+    "Etkisi azdır",
+    "Fotosentez durur",
+    "Hız iki katına çıkar"
+   ],
+   "answer": 1,
+   "why": "Düşük ışıkta sıcaklığı artırmanın karbon özümleme hızına etkisi azdır."
+  }
+ ]
+}

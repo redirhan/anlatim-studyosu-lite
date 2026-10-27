@@ -1,0 +1,14 @@
+# Anlatım Stüdyosu — örnek proje (demo). Tüm içerik kamuya açık kaynaklardan, kaynak satırlarıyla.
+topic: "Fotosentez nasıl çalışır?"
+audience: "lise 10-11. sınıf / üniversite giriş biyoloji"
+purpose: ders_materyali
+language: tr
+slide_count: 14
+template: sade_akademik
+kaynak_line: true
+author: ""
+org: ""
+date: ""
+use_my_notes_only: false
+video_length_min: [3, 5]
+tts_engine: ema

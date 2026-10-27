@@ -1,0 +1,22 @@
+# Anlatım Stüdyosu ayarları. config.yaml adıyla kopyalayın (ya da ANLATIM_CONFIG ile yolunu verin).
+# Hiçbir alan zorunlu değil; boş bırakılanlar varsayılanı kullanır. ~ ve $DEGISKEN çalışır; mutlak yol gerekmez.
+
+projects_dir: ~/anlatim-studyosu      # `new <ad>` projeleri burada açar
+template: sade_akademik               # sade_akademik | modern_koyu | renkli_lise | kurumsal_egitim
+kaynak_line: true                     # her içerik slaytının altında "Kaynak:" satırı
+author: ""                            # kapakta "Hazırlayan:" (ör. öğretmenin adı) — boş bırakılabilir
+org: ""                               # okul / kurum / kurs adı — boş bırakılabilir
+preview: auto                         # auto (LibreOffice varsa onu kullan) | libreoffice | pil
+soffice:                              # LibreOffice yolu (boşsa PATH ve /Applications/LibreOffice.app aranır)
+
+# ---------------- Pro (video) ----------------
+tts_engine: ema                       # ema (yerel, ücretsiz) | gemini (kendi anahtarınız) | silent (sessiz önizleme)
+ema_python:                           # EMA-TTS venv python'u, ör. ~/ema-tts/.venv/bin/python   (ya da EMA_PYTHON)
+ema_repo:                             # git clone https://huggingface.co/canberkkkkkk/ema-tts   (ya da EMA_REPO)
+gemini_api_key_env: GEMINI_API_KEY    # anahtar YALNIZ bu ortam değişkeninden okunur; buraya anahtar yazmayın
+gemini_models: [gemini-3.8-flash-tts, gemini-2.5-flash-preview-tts]   # sırayla denenir (404 / günlük kota)
+gemini_voice: Kore                    # Gemini hazır ses adı (ör. Kore kadın, Charon erkek)
+whisper_cpp_model:                    # whisper.cpp ggml modeli (ya da WHISPER_CPP_MODEL); yoksa faster-whisper denenir
+video_length_min: [3, 5]              # hedef video süresi (dakika)
+music: true                           # sentezlenmiş telifsiz müzik yatağı (konuşma altında −19 LU, ducking)
+outro_line: "Özet PDF ve 10 soruluk test videonun yanında."
