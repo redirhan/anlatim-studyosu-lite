@@ -1,5 +1,7 @@
 # Anlatım Stüdyosu — cited lesson decks and narrated explainer videos (Claude Code skill, Turkish)
 
+> **Pro edition coming soon (not on sale yet).** To hear when it ships, leave a 👍 or a short comment on the [Pro waitlist issue](https://github.com/redirhan/redirhan/issues/1).
+
 Give a topic — and, optionally, your own notes. Claude researches it, records **only the sources it actually opened
 and read** (with verbatim excerpts), shows you an outline, and after your approval builds an **editable PowerPoint**
 in one of four templates, with speaker notes and a one-page summary PDF. Every content slide gets a "Kaynak:" (source)
@@ -68,4 +70,4 @@ under your own key.
 ## Licence
 
 Lite: MIT. Pro: commercial EULA (`EULA.md`; files shared with Lite are also MIT). Fonts: SIL OFL 1.1.
-Third parties: `THIRD_PARTY_NOTICES.md`. Redirhan Studio — redirhan.com
+Third parties: `THIRD_PARTY_NOTICES.md`. Redirhan Labs

@@ -32,7 +32,7 @@ Fontlar github.com/google/fonts deposundan alınmış, değişken fontlardan sab
 | Google Gemini API (Pro, isteğe bağlı) | Google'ın hizmet şartları | kullanıcının kendi anahtarıyla TTS |
 
 Müzik yatağı paket içindeki kodla sentezlenir (numpy); örnek ya da kayıt içermez.
-Telaffuz sözlüğü (`studyo/pro/data/glossary_tr.tsv`) Redirhan Studio'ya aittir (Pro EULA).
+Telaffuz sözlüğü (`studyo/pro/data/glossary_tr.tsv`) Pro EULA kapsamındadır; hak sahibi Redirhan Labs.
 
 Örnek projedeki kaynaklar (OpenStax Biology 2e — CC BY-NC-SA 4.0 · Vikipedi / Wikipedia — CC BY-SA 4.0) yalnız
 atıf yapılarak, kısa alıntılarla kullanılmıştır; sunum metni kendi cümlelerimizdir. Haklar sahiplerine aittir.

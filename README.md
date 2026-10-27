@@ -1,5 +1,7 @@
 # Anlatım Stüdyosu — kaynaklı ders sunumu ve anlatım videosu (Claude Code skill)
 
+> **Pro sürümü yakında (henüz satışta değil).** Çıkınca haber almak için [Pro bekleme listesi](https://github.com/redirhan/redirhan/issues/1) konusuna 👍 bırakın ya da kısa bir yorum yazın.
+
 Bir konu yazın — isterseniz kendi notlarınızı da ekleyin. Claude konuyu araştırır, **yalnız gerçekten açıp okuduğu
 kaynakları** alıntılarıyla kaydeder, size bir taslak gösterir; onayınızdan sonra seçtiğiniz şablonla **düzenlenebilir
 bir PowerPoint**, konuşmacı notları ve tek sayfalık özet hazırlar. Her slaytın altında "Kaynak:" satırı, sonda
@@ -112,4 +114,4 @@ anahtarınızla). Anahtar dosyaya yazılmaz, yalnız ortam değişkeninden okunu
 ## Lisans
 
 Lite: MIT (`LICENSE`). Pro: ticari EULA (`EULA.md`; Lite'la ortak dosyalar ayrıca MIT). Fontlar SIL OFL 1.1
-(`fonts/OFL-*.txt`). Üçüncü taraflar: `THIRD_PARTY_NOTICES.md`. Redirhan Studio — redirhan.com
+(`fonts/OFL-*.txt`). Üçüncü taraflar: `THIRD_PARTY_NOTICES.md`. Redirhan Labs
